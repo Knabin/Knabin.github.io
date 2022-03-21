@@ -32,7 +32,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://knabin.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: Knabin             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -56,7 +56,7 @@ google_site_verification: google89e4be86e025cf4d.html              # fill in to 
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: 221371935                # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -80,10 +80,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
+img_cdn: 'https://raw.githubusercontent.com/knabin/knabin-images/master'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.jpg'
+avatar: '/commons/avatar.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true

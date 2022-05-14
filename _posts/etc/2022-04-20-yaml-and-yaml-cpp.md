@@ -17,7 +17,7 @@ image:
 # YAML
 ## YAML(Yet Another Markup Language)
 
-.yml, .yaml
+.yml, .yaml 
 
 ![1](/posts/220421/1.png)
 
